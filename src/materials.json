@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "id": 950063,
+      "imageName": "950063.png",
+      "displayName": "250ML CAN MOTHER PREMIUM"
+    },
+    {
+      "id": 950186,
+      "imageName": "950186.png",
+      "displayName": "250ML CAN DIET COKE"
+    },
+    {
+      "id": 950187,
+      "imageName": "950187.png",
+      "displayName": "250ML CAN SPRITE"
+    },
+    {
+      "id": 950189,
+      "imageName": "950189.png",
+      "displayName": "250ML CAN FANTA"
+    },
+    {
+      "id": 950242,
+      "imageName": "950242.png",
+      "displayName": "375ML CAN COCA-COLA"
+    },
+    {
+      "id": 950244,
+      "imageName": "950244.png",
+      "displayName": "375ML CAN DIET COKE"
+    },
+    {
+      "id": 950247,
+      "imageName": "950247.png",
+      "displayName": "375ML CAN FANTA ORANGE"
+    },
+    {
+      "id": 950658,
+      "imageName": "950658.png",
+      "displayName": "1.5L PET COCA-COLA"
+    },
+    {
+      "id": 950661,
+      "imageName": "950661.png",
+      "displayName": "1.5L PET FANTA ORANGE"
+    },
+    {
+      "id": 950662,
+      "imageName": "950662.png",
+      "displayName": "1.5L PET SPRITE"
+    },
+    {
+      "id": 950939,
+      "imageName": "950939.png",
+      "displayName": "1.5L PET FANTA GRAPE"
+    },
+    {
+      "id": 951066,
+      "imageName": "951066.png",
+      "displayName": "450ML PET SPRITE"
+    },
+    {
+      "id": 951068,
+      "imageName": "951068.png",
+      "displayName": "450ML PET FANTA ORANGE"
+    },
+    {
+      "id": 951070,
+      "imageName": "951070.png",
+      "displayName": "450ML PET LIFT"
+    },
+    {
+      "id": 951312,
+      "imageName": "951312.png",
+      "displayName": "385ML NRB COCA-COLA"
+    },
+    {
+      "id": 951315,
+      "imageName": "951315.png",
+      "displayName": "385ML NRB DIET COKE"
+    },
+    {
+      "id": 951318,
+      "imageName": "951318.png",
+      "displayName": "385ML NRB COKE ZERO"
+    },
+    {
+      "id": 951536,
+      "imageName": "951536.png",
+      "displayName": "600ML PET FANTA RASPBERRY"
+    },
+    {
+      "id": 951550,
+      "imageName": "951550.png",
+      "displayName": "600ML PET FANTA LIME"
+    },
+    {
+      "id": 951662,
+      "imageName": "951662.png",
+      "displayName": "200ML CAN DIET COKE"
+    },
+    {
+      "id": 951664,
+      "imageName": "951664.png",
+      "displayName": "200ML CAN COKE ZERO"
+    }
+  ]
+}
